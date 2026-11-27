@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "juego-jol",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["C:/Users/anducart/AppData/Local/Temp/claude/e11658ceaf4ad5cb/b9de6f03-3051-4cd6-889b-ef1082e05ba8/scratchpad/serve.js", "C:/Users/anducart/OneDrive - Lotería de la Provincia de Cordoba S.A.U/Escritorio/Presentaciones/juego-interactivo-jol"],
+      "port": 8765
+    }
+  ]
+}
